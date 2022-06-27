@@ -7,7 +7,7 @@ import burger from "../Media/burger-mini.svg";
 import user from "../Media/user.png";
 import search from "../Media/search.png";
 import road from "../Media/road.png";
-import { WOW } from "wowjs";
+import WOW from "wow.js";
 
 const Wrapper = styled.div`
   position: relative;

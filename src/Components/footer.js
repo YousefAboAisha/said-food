@@ -3,7 +3,7 @@ import styled from "styled-components";
 import logo from "../Media/Logo.svg";
 import googlePlay from "../Media/google-play.png";
 import appStore from "../Media/app-store.png";
-import { WOW } from "wowjs";
+import WOW from "wow.js";
 
 const Wrapper = styled.div`
   position: relative;

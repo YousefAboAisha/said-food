@@ -5,7 +5,7 @@ import add2 from "../Media/add2.png";
 import add3 from "../Media/add3.png";
 import add4 from "../Media/add4.png";
 import Cards from "../Components/cards";
-import { WOW } from "wowjs";
+import WOW from "wow.js";
 
 const Wrapper = styled.div`
   position: relative;

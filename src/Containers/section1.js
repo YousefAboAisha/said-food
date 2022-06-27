@@ -11,7 +11,7 @@ import Adds from "./section2";
 import Section3 from "./section3";
 import Section4 from "./section4";
 import Section5 from "./section5";
-import { WOW } from "wowjs";
+import WOW from "wow.js";
 
 const FirstSec = styled.div`
   position: relative;

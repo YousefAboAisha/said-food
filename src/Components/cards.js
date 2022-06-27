@@ -3,7 +3,7 @@ import styled from "styled-components";
 import icon1 from "../Media/icon1.png";
 import icon2 from "../Media/icon2.png";
 import icon3 from "../Media/icon3.png";
-import { WOW } from "wowjs";
+import WOW from "wow.js";
 
 const Box = styled.div`
   position: relative;

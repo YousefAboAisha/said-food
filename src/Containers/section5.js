@@ -6,7 +6,7 @@ import appStore from "../Media/app-store.png";
 import android from "../Media/download-android.png";
 import ios from "../Media/download-ios.png";
 import Footer from "../Components/footer";
-import { WOW } from "wowjs";
+import WOW from "wow.js";
 
 const Wrapper = styled.div`
   position: relative;
